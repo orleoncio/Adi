@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|c:\\users\\orleo\\desktop\\game project\\adi\\assets\\scripts\\pecas\\cacador\\cacadormonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pecas\\cacador\\cacadormonobehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\assets\\scripts\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\assets\\scripts\\pecas\\onca\\onca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pecas\\onca\\onca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\assets\\scripts\\pecas\\cacador\\cacador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pecas\\cacador\\cacador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\assets\\scripts\\pecas\\pecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE7F5D-53AD-7B5B-A1F8-6BAEAEE0A233}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pecas\\pecas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacadorMonoBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Cacador\\CacadorMonoBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Pecas\\Cacador\\CacadorMonoBehaviour.cs",
+              "ToolTip": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Cacador\\CacadorMonoBehaviour.cs",
+              "RelativeToolTip": "Assets\\scripts\\Pecas\\Cacador\\CacadorMonoBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:55:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Tabuleiro.cs",
+              "RelativeToolTip": "Assets\\scripts\\Tabuleiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:04:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cacador.cs",
+              "DocumentMoniker": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Cacador\\Cacador.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Pecas\\Cacador\\Cacador.cs",
+              "ToolTip": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Cacador\\Cacador.cs",
+              "RelativeToolTip": "Assets\\scripts\\Pecas\\Cacador\\Cacador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:52:51.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Onca.cs",
+              "DocumentMoniker": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Onca\\Onca.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Pecas\\Onca\\Onca.cs",
+              "ToolTip": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Onca\\Onca.cs",
+              "RelativeToolTip": "Assets\\scripts\\Pecas\\Onca\\Onca.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:52:53.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pecas.cs",
+              "DocumentMoniker": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Pecas.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Pecas\\Pecas.cs",
+              "ToolTip": "C:\\Users\\orleo\\Desktop\\Game Project\\Adi\\Assets\\scripts\\Pecas\\Pecas.cs",
+              "RelativeToolTip": "Assets\\scripts\\Pecas\\Pecas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:52:49.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
